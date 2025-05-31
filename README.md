@@ -69,7 +69,7 @@ The goal of this project was to:
 - `presentation.pptx` – Final presentation
 
   ## Get the full project query answers and visual download the pdf below
- 📥 [Download PDF](//https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern/blob/main/Abdulrasheed_Aminu_SQL_income.pdf)
+ 📥 [Download PDF](https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern/blob/main/Abdulrasheed_Aminu_SQL_income.pdf)
 
  ## Get the datasetx
  📊 [Download Dataset](https://github.com/Abdulrasheed055/SoulVibe-Data-analysis-Intern/blob/main/data%20sheet%20batch%209.csv)
