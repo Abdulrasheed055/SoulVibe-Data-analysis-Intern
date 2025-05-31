@@ -1,7 +1,7 @@
-# SoulVibe-Data-analysis-Intern
+## SoulVibe-Data-analysis-Intern
  To analyse a demographic and income dataset using SQL and calculate aggregates to answer specific analytical questions
 
-# 🧠 Income Distribution and Lifestyle Analytics
+## 🧠 Income Distribution and Lifestyle Analytics
 
 This project explores a fictional demographic and income dataset using SQL in a PostgreSQL environment. It was completed as part of the **SoulVibe.Tech Internship Program (Batch 9)** to demonstrate analytical thinking, technical SQL skills, and insight generation.
 
@@ -66,7 +66,7 @@ The goal of this project was to:
 - `AminuAbdulrasheed_SQL_income.docx` – SQL queries and documentation
 - `soulvibe_interns_dataset.csv` – Dataset used for the project
 - `queries.sql` – All SQL queries used
-- `presentation.pptx` – Final presentation (if applicable)
+- `presentation.pptx` – Final presentation 
 
 ## 👨🏽‍💻 Author
 
